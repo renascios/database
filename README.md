@@ -1,6 +1,6 @@
 # Projeto Python e Banco de Dados
 
-Projeto de aprendizado para praticar Python e SQLite. A aplicação oferece um menu de terminal para cadastrar, listar, buscar, atualizar e excluir produtos.
+Projeto de aprendizado para praticar Python e SQLite. A aplicação oferece um menu de terminal para cadastrar, listar, buscar, atualizar e excluir produtos. O projeto não está completo, alterações devem ser feitas no futuro.
 
 ## Arquivos do projeto
 
@@ -17,7 +17,7 @@ Projeto de aprendizado para praticar Python e SQLite. A aplicação oferece um m
 - Python 3
 - SQLite, utilizado pelo módulo `sqlite3` incluído na biblioteca padrão do Python
 
-Não há dependências externas indicadas nos arquivos enviados.
+Não há dependências externas.
 
 ## Como executar
 
